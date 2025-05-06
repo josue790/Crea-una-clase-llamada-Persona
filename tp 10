@@ -25,5 +25,4 @@ print(f"Radio: {c1.get_radio()}")
 print(f"Área: {c1.calcular_area():.2f}")
 print(f"Circunferencia: {c1.calcular_circunferencia():.2f}")
 c1.set_radio(-3)
-# Verificar el radio después del intento
 print(f"Radio actualizado: {c1.get_radio()}")
